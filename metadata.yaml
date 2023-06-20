@@ -1,0 +1,28 @@
+_repo: La-falce-Punizione-L-enigma_70952
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Calandra, Edoardo
+    birthdate: 1852
+    deathdate: 1911
+    gutenberg_agent_id: '55898'
+    url: http://www.gutenberg.org/2009/agents/55898
+    wikipedia: https://it.wikipedia.org/wiki/Edoardo_Calandra
+description: ''
+gutenberg_issued: '2023-06-09'
+identifiers:
+  gutenberg: '70952'
+language: it
+pgterms:marc905: 20220722024911calandra
+pgterms:marc906: '1902'
+pgterms:marc907: IT
+production_note: Barbara Magni and the Online Distributed Proofreading Team at http://www.pgdp.net
+  (This file was produced from images made available by the HathiTrust Digital Library)
+publication_note: '  $aItaly :$bCasa Editrice Nazionale, $c1902.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: La falce - Punizione - L'enigma
+url: http://www.gutenberg.org/ebooks/70952
