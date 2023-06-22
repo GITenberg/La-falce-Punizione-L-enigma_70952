@@ -1,5 +1,8 @@
 _repo: La-falce-Punizione-L-enigma_70952
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70952-h/images/cover.jpg
 creator:
   author:
     agent_name: Calandra, Edoardo
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/55898
     wikipedia: https://it.wikipedia.org/wiki/Edoardo_Calandra
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70952#La-falce-Punizione-L-enigma
 gutenberg_issued: '2023-06-09'
 identifiers:
   gutenberg: '70952'
